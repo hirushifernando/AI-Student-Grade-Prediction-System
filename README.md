@@ -1,5 +1,7 @@
 # AI Student Grade Prediction System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This project predicts student grades using Machine Learning models trained on feature datasets.  
 It demonstrates data preprocessing, feature engineering, model training, and evaluation using Python and Jupyter Notebook.
 
